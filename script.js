@@ -1,0 +1,1 @@
+let num1 = Number(prompt("Give me the first number"));
